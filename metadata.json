@@ -1,0 +1,6 @@
+{
+  "name": "SAVE Collection Centre - Medical Diagnostic Sample Collection",
+  "description": "Professional medical diagnostic sample collection centre in Parmandapur, Sajoi, Varanasi, UP – 221302. CBC, Blood Sugar, Thyroid, LFT, KFT, Lipid Profile, and routine pathology services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
